@@ -1,0 +1,40 @@
+body{
+    text-align: center
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2.25rem;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+
+.color1{
+    background-color: #EF5A52;
+}
+
+.color2{
+    background-color: #4273DE;
+}
+
+.color3{
+    background-color: #636363;
+}
+
+.color4{
+    background-color: #F7D629;
+}
+
+.flash{
+    background-color: aliceblue;
+}
+
+.gameFlash{
+    background-color: green;
+}
